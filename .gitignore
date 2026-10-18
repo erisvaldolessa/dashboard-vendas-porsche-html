@@ -1,0 +1,10 @@
+# Arquivos locais que não devem ser versionados
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+~$*
+.env
+.env.*
+__pycache__/
+.venv/
